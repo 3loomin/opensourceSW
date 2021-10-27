@@ -4,7 +4,7 @@
 void foo(){
 	printf("foo\n");
 }
-void koo(){
-	printf("koo\n");
+void koo(int num){
+	printf("koo is %d \n",num);
 }
 
