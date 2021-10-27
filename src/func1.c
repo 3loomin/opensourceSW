@@ -4,4 +4,7 @@
 void foo(){
 	printf("foo\n");
 }
+void koo(){
+	printf("koo\n");
+}
 
